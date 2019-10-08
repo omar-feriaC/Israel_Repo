@@ -11,6 +11,7 @@ namespace Israel_Test
         static void Main(string[] args)
         {
             Console.WriteLine("Line added");
+            Console.WriteLine("Line added");
         }
     }
 }
