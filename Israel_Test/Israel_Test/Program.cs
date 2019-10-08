@@ -10,6 +10,7 @@ namespace Israel_Test
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Line added");
         }
     }
 }
